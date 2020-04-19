@@ -1,4 +1,4 @@
-# [loginDemo](https://github.com/rhildred/loginDemo)
+# Online PPE store
 
 ## Project Description
 
